@@ -53,7 +53,7 @@ Each project folder contains its own README with specific instructions. Generall
 
 * Task 3: CNN Model Performance: 0.69%
 * Task 4: Text Generation Samples & Analysis
-* Task 5: Object Detection mAP: XX%
+* Task 5: Object Detection mAP: 0.988309383392334%
 
 
 
